@@ -17,6 +17,7 @@
 		DF2CA86F247DFBB900A88AC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF2CA86D247DFBB900A88AC2 /* Main.storyboard */; };
 		DF2CA871247DFBBA00A88AC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF2CA870247DFBBA00A88AC2 /* Assets.xcassets */; };
 		DF2CA874247DFBBA00A88AC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF2CA872247DFBBA00A88AC2 /* LaunchScreen.storyboard */; };
+		DFED493E24931D3E0009BFB8 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFED493D24931D3E0009BFB8 /* ConstantsTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		DF2CA870247DFBBA00A88AC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF2CA873247DFBBA00A88AC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DF2CA875247DFBBA00A88AC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DFED493D24931D3E0009BFB8 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				DF2CA872247DFBBA00A88AC2 /* LaunchScreen.storyboard */,
 				DF2CA875247DFBBA00A88AC2 /* Info.plist */,
 				DF2A4AA4247F4ED300D305BF /* Constants.swift */,
+				DFED493D24931D3E0009BFB8 /* ConstantsTemplate.swift */,
 				DF2A4AA6247F522D00D305BF /* Video.swift */,
 				DF2A4AA8247F535700D305BF /* Model.swift */,
 				DF251E6824889A8B0018D93A /* Response.swift */,
@@ -153,6 +156,7 @@
 				DF2CA86C247DFBB900A88AC2 /* ViewController.swift in Sources */,
 				DF2CA868247DFBB900A88AC2 /* AppDelegate.swift in Sources */,
 				DF2CA86A247DFBB900A88AC2 /* SceneDelegate.swift in Sources */,
+				DFED493E24931D3E0009BFB8 /* ConstantsTemplate.swift in Sources */,
 				DF2A4AA9247F535700D305BF /* Model.swift in Sources */,
 				DF2A4AA5247F4ED300D305BF /* Constants.swift in Sources */,
 				DF2A4AA7247F522D00D305BF /* Video.swift in Sources */,
